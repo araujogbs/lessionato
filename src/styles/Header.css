@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+
+
+
+.aboveHeader{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.4rem 31rem;
+    color: #00043C;
+    font-family: lato;
+    font-weight: 400;
+    font-size: 1.6rem;
+    height: 3.2rem;
+    
+}
+
+#loginicon {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+#registericon {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+
+.loginAndRegister{
+    display: flex;
+    font-size: 0.7rem;
+    gap: 1.6rem;
+    font-family: Koulen;
+    color: #00043C;
+    
+}
+
+
+
+
+
+.navbar{
+    background-color: #00043C;
+    height: 68px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0rem 30rem;
+}
+
+#logolessionato{
+    width: 3.6rem;
+   
+}
+#logoescrita{
+    width: 16rem;
+    
+}
+.logos{
+    text-wrap: nowrap;
+}
+
+
+.navpages{
+    color: white;
+    display: flex;
+    gap: 5.6rem;
+    font-family: Poppins;
+    font-weight: 200;
+    font-size: 1.6rem;
+    text-wrap: nowrap;
+}
+
+.socialmedias{
+    display: flex;
+    gap: 1rem;
+}
+
+.socialMediasAndCart{
+    display: flex;
+    gap: 3.6rem;
+    justify-content: center;
+    
+}
+
+#cart{
+    width: 2rem;
+    display: flex;
+    margin-bottom: 0.6rem;
+
+}
+
+
+
+
+
+#line{
+    height: 0.8rem;
+    background-color: #164B70;
+}
