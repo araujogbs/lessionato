@@ -1,12 +1,12 @@
-import "../styles/Header.css"
-import logo from "../assets/logos/logobrancafundopng.png"
-import logoescrita from "../assets/logos/lessionato logo escrito.png"
-import loginIcon from "../assets/header/loginIcon.svg"
-import registerIcon from "../assets/header/registerIcon.svg"
-import ytlogo from "../assets/header/social medias/youtube.svg"
-import instalogo from "../assets/header/social medias/instagram.svg"
-import twitterlogo from "../assets/header/social medias/twitter.svg"
-import cart from "../assets/header/cart.svg"
+import "./Header.css"
+import logo from "./../../assets/logos/logobrancafundopng.png"
+import logoescrita from "./../../assets/logos/lessionato logo escrito.png"
+import loginIcon from "./../../assets/header/loginIcon.svg"
+import registerIcon from "./../../assets/header/registerIcon.svg"
+import ytlogo from "./../../assets/header/social medias/youtube.svg"
+import instalogo from "./../../assets/header/social medias/instagram.svg"
+import twitterlogo from "./../../assets/header/social medias/twitter.svg"
+import cart from "./../../assets/header/cart.svg"
 
 
 function Header() {

@@ -7,13 +7,13 @@
 .aboveHeader{
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 0.4rem 31rem;
+    justify-content: space-around;
     color: #00043C;
     font-family: lato;
     font-weight: 400;
     font-size: 1.6rem;
     height: 3.2rem;
+    gap: 28rem;
     
 }
 
@@ -49,7 +49,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0rem 30rem;
+    padding: 0rem 15.5vw;
 }
 
 #logolessionato{
@@ -65,10 +65,11 @@
 }
 
 
+
 .navpages{
     color: white;
     display: flex;
-    gap: 5.6rem;
+    gap: 2rem;
     font-family: Poppins;
     font-weight: 200;
     font-size: 1.6rem;
@@ -102,3 +103,5 @@
     height: 0.8rem;
     background-color: #164B70;
 }
+
+

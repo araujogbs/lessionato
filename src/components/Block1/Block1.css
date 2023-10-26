@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400&display=swap');
+
+
+.logo{
+    width: 29rem;
+    position: relative;
+    bottom: 2.8rem;
+}
+
+.text{
+    font-family: lato;
+    width: 55rem;
+    
+   
+}
+
+#titleblock1{
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+#textblock1{
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+    font-weight: 400;
+}
+
+.block1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 10rem;
+    
+}
+
+.logoandtext{
+    display: flex;
+    align-items: center;
+
+}
+
+.imgs{
+    display: flex;
+    gap: 2.5rem;
+
+}
+
+.imgs img{
+    width: 7.5rem;
+}
+
+#downimg{
+    margin-top: 7rem;
+
+}
+
+#upimg{
+    margin-bottom: 7rem;
+  
+}
+
+#division1{
+    margin-top: 15rem;
+    width: 100vw;
+}

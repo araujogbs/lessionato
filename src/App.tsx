@@ -1,5 +1,6 @@
-import Header from "./components/Header"
-import Block1 from "./components/Block1"
+import Header from "./components/Header/Header"
+import Block1 from "./components/Block1/Block1"
+import Courseareas from "./components/Courseareas/Courseareas"
 
 function App() {
 
@@ -9,6 +10,8 @@ function App() {
     <Header/>
 
     <Block1/>
+
+    <Courseareas/>
 
     
 

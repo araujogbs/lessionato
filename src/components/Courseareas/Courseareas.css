@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400&display=swap');
+
+
+.areatitle{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10rem;
+    font-family: lato;
+    max-width: 300rem;
+}
+
+#title{
+    font-size: 5.5rem;
+    color: #01042F;
+}
+
+#description{
+    font-size: 1.7rem;
+    width: 80rem;
+    text-align: center;
+    color: #01042F;
+    margin-top: 2rem;
+}
+
