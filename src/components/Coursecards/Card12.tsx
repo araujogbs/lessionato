@@ -3,7 +3,7 @@
 import styles from "./Card.module.css"
 import mainimg from "./../../assets/courseareas/admimg.png"
 
-function Card3() {
+function Card12() {
     return (
 
 
@@ -15,6 +15,8 @@ function Card3() {
 
             <h1 className={styles.title} >Titulo</h1>
             <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti, error reprehenderi</span>
+
+            <button className={styles.btn}>Matricule-se</button>
         </div>
 
 
@@ -23,4 +25,4 @@ function Card3() {
     )
 }
 
-export default Card3
+export default Card12

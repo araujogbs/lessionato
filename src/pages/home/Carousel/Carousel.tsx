@@ -1,4 +1,4 @@
-import imgcarousel from  "./../../assets/carousel/Rectangle 36.png"
+import imgcarousel from  "./../../../assets/carousel/Rectangle 36.png"
 
 function Carousel(){
     return(

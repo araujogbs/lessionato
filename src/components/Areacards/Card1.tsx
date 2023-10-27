@@ -1,20 +1,20 @@
 
 
-import "./Card.css"
+import styles from "./Card.module.css"
 import mainimg from "./../../assets/courseareas/admimg.png"
 
 function Card1() {
     return (
 
 
-        <div className="card">
-            <img className="mainimg" src={mainimg} alt="" />
+        <div className={styles.card}>
+            <img className={styles.mainimg} src={mainimg} alt="" />
 
-            <div id="cardline"></div>
+            <div id={styles.cardline}></div>
 
 
-            <h1 className="title" >Titulo</h1>
-            <span id="carddescription">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti, error reprehenderi</span>
+            <h1 className={styles.title} >Titulo</h1>
+            <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti, error reprehenderi</span>
         </div>
 
 

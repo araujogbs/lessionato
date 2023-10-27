@@ -1,8 +1,4 @@
-import Header from "./components/Header/Header"
-import Block1 from "./components/Block1/Block1"
-import Courseareas from "./components/Courseareas/Courseareas"
-import Carousel from "./components/Carousel/Carousel"
-import Courses from "./components/courses/courses"
+import Home from "./pages/home/Home"
 
 
 function App() {
@@ -10,15 +6,7 @@ function App() {
   return (
     <>  
 
-    <Header/>
-
-    <Block1/>
-
-    <Courseareas/>
-
-    <Carousel/>
-
-    <Courses/>
+    <Home/>
     
 
     </>
