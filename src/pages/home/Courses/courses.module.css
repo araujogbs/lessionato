@@ -1,5 +1,6 @@
 #division {
     margin-top: 10rem;
+    width: 100vw;
 }
 
 .areatitle{
@@ -42,5 +43,6 @@
  position: absolute;
  z-index: -1;
  margin-top: 25rem;
+ width: 100vw;
 }
 

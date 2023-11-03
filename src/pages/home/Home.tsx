@@ -4,6 +4,7 @@ import Courseareas from "./Courseareas/Courseareas"
 import Header from "./Header/Header"
 import Courses from "./Courses/courses"
 import CertificatedBlock from "./Certificatedblock/certificatedblock"
+import Footer from "./Footer/footer"
 
 
 function Home(){
@@ -21,6 +22,8 @@ function Home(){
 <Courses/>
 
 <CertificatedBlock/>
+
+<Footer/>
 
 
 

@@ -1,7 +1,7 @@
 
 
 import styles from "./Card.module.css"
-import mainimg from "./../../assets/courseareas/admimg.png"
+import mainimg from "./../../assets/courseareas/sustentabilidade.webp"
 
 function Card10() {
     return (
@@ -13,8 +13,8 @@ function Card10() {
             <div id={styles.cardline}></div>
 
 
-            <h1 className={styles.title} >Titulo</h1>
-            <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti, error reprehenderi</span>
+            <h1 className={styles.title} >Meio Ambinete & Sustentabilidade</h1>
+            <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti</span>
         </div>
 
 

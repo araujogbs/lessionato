@@ -10,8 +10,10 @@ import division1 from "./../../../assets/divisions/Rectangle 26.png"
 
 
 function Block1() {
+    
     return (
         <>
+        
 
             <div className={styles.block1}>
 

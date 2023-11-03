@@ -1,0 +1,21 @@
+.footer{
+    background-color: #01042f;
+    height: 50rem;
+    margin-top: 15rem;
+    color: white;
+    font-family: lato;
+    font-size: 1.7rem;
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+}
+
+.footer ul {
+    margin-top: 10rem;
+    line-height: 5rem;
+}
+
+.logo{
+    margin-top: 4rem;
+        width: 25rem;
+}
