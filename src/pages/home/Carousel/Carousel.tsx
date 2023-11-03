@@ -1,7 +1,5 @@
-import imgcarousel from  "./../../../assets/carousel/Rectangle 36.png"
-import styles from "./Carousel.module.css"
+
 import {Swiper, SwiperSlide} from 'swiper/react'
-import { Navigation, Pagination } from "swiper/modules"
 import img1 from  "./../../../assets/carousel/carrousel1.png"
 import img2 from  "./../../../assets/carousel/carrousel2.png"
 import img3 from  "./../../../assets/carousel/carrousel3.png"
