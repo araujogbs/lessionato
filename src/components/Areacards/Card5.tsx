@@ -13,7 +13,7 @@ function Card5() {
             <div id={styles.cardline}></div>
 
 
-            <h1 className={styles.title} >Educação & Serviço Social</h1>
+            <h1 className={styles.title} >Educação e Serviço Social</h1>
             <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti, error reprehenderi</span>
         </div>
 

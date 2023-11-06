@@ -13,7 +13,7 @@ function Card12() {
             <div id={styles.cardline}></div>
 
 
-            <h1 className={styles.title} >Turismo & Hotelaria</h1>
+            <h1 className={styles.title} >Turismo e Hotelaria</h1>
             <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti, error reprehenderi</span>
         </div>
 

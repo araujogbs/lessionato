@@ -22,9 +22,9 @@ function Block1() {
 
                     <div className={styles.text}>
 
-                        <h1 id={styles.titleblock1} >Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto voluptate </h1>
+                        <h1 id={styles.titleblock1} >Potencialize seu Saber, Conquiste o Sucesso! </h1>
 
-                        <h3 id={styles.textblock1} >Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum fugiat, nam alias quasi recusandae nihil enim laboriosam velit impedit, totam, porro voluptatum itaque nisi earum voluptatibus? Saepe quis iusto facilis! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo quam non recusandae praesentium explicabo officiis voluptate beatae ipsa aspernatur unde, aperiam fuga natus perferendis dolore voluptas quis numquam tempore. Nisi!</h3>
+                        <h3 id={styles.textblock1} >Descubra cursos de alta qualidade que vão impulsionar sua aprendizagem e te ajudar a atingir seus objetivos. Acesso instantâneo a conhecimento valioso para alcançar o sucesso pessoal e profissional, com certificados digitais para comprovar suas conquistas. Explore nossa seleção e comece a transformar sua vida hoje</h3>
 
                     </div>
 

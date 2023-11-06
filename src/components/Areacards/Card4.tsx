@@ -13,7 +13,7 @@ function Card4() {
             <div id={styles.cardline}></div>
 
 
-            <h1 className={styles.title} >Contabilidade & Finanças</h1>
+            <h1 className={styles.title} >Contabilidade e Finanças</h1>
             <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti, error reprehenderi</span>
         </div>
 

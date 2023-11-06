@@ -4,10 +4,10 @@
     margin-top: 15rem;
     color: white;
     font-family: lato;
-    font-size: 1.7rem;
+    font-size: 1.4rem;
     display: flex;
     justify-content: center;
-    gap: 10rem;
+    gap: 20rem;
 }
 
 .footer ul {

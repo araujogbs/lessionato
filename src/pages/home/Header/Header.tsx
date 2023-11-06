@@ -52,7 +52,7 @@ function Header() {
                 <ul className={styles.socialmedias}>
                     <li> <img src={ytlogo} alt="canal do youtube" /></li>
                     <li><img src={twitterlogo} alt="perfil do twitter" /></li>
-                    <li><img src={instalogo} alt="perfil do instagram" /></li>
+                    <li ><img src={instalogo} alt="perfil do instagram" /></li>
                 </ul>
 
                 <img id={styles.cart} src={cart} alt="carrinho de compras" />

@@ -13,7 +13,7 @@ function Card3() {
             <div id={styles.cardline}></div>
 
 
-            <h1 className={styles.title} >Coaching & Psicologia</h1>
+            <h1 className={styles.title} >Coaching e Psicologia</h1>
             <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti, error reprehenderi</span>
         </div>
 

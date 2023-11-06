@@ -13,7 +13,7 @@ function Card10() {
             <div id={styles.cardline}></div>
 
 
-            <h1 className={styles.title} >Meio Ambinete & Sustentabilidade</h1>
+            <h1 className={styles.title} >Meio Ambinete e Sustentabilidade</h1>
             <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti</span>
         </div>
 

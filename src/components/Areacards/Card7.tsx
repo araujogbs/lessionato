@@ -13,7 +13,7 @@ function Card7() {
             <div id={styles.cardline}></div>
 
 
-            <h1 className={styles.title} >História & Geografia</h1>
+            <h1 className={styles.title} >História e Geografia</h1>
             <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti, error reprehenderi</span>
         </div>
 
