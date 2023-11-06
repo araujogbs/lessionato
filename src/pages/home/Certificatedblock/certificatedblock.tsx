@@ -26,10 +26,10 @@ function CertificatedBlock() {
 
             <div className={styles.descriptionandcertificated}> 
                 
-            <span className={styles.certificateddescription}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit
-            <br /><br /><br />
+            <span className={styles.certificateddescription}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor consectetur adipiscing elit consectetur adipiscing elit consectetur adipiscing elit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit
+            
 
-                sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                sit amet, consectetur adipiscing elit, veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat., sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             </span>
 
             <img className={styles.certificated} src={certificated} alt="exemplo de certificado" />
