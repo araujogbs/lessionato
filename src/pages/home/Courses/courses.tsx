@@ -1,6 +1,6 @@
 import background from "./../../../assets/divisions/Rectangle 33.png"
 import styles from "./courses.module.css"
-import division from "../../../assets/divisions/Rectangle 29.png"
+
 import Card1 from "../../../components/Coursecards/Card1"
 import Card2 from "../../../components/Coursecards/Card2"
 import Card3 from "../../../components/Coursecards/Card3"
@@ -21,8 +21,7 @@ function courses(){
     return(
 
         <>
-        
-<img id={styles.division} src={division} alt="" />
+       
 
 <div className={styles.areatitle}>
     <h1 id={styles.title}>Nossos cursos mais acessados</h1>

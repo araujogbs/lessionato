@@ -15,7 +15,11 @@
     line-height: 5rem;
 }
 
-.logo{
+.logofooter{
     margin-top: 4rem;
         width: 25rem;
+}
+
+.footer li{
+    color: white;
 }

@@ -1,0 +1,347 @@
+
+
+
+.aboveHeader{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: #00043C;
+    font-family: lato;
+    font-weight: 400;
+    font-size: 1.6rem;
+    height: 3.2rem;
+    gap: 28rem;
+    
+    
+}
+
+#loginicon {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+#registericon {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+
+.loginAndRegister{
+    display: flex;
+    font-size: 0.7rem;
+    gap: 1.6rem;
+    font-family: Koulen;
+    color: #00043C;
+    
+    
+}
+
+
+
+
+
+.navbar{
+    background-color: #00043C;
+    height: 68px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0rem 15.5vw;
+    overflow: hidden;
+    
+}
+
+#logolessionatoheader{
+    width: 3.6rem;
+    margin-top: 5.2rem;
+    
+   
+}
+#logoescrita{
+    width: 16rem;
+  
+    
+}
+.logos{
+    text-wrap: nowrap;
+    cursor: pointer;
+}
+
+
+
+
+
+.navpages{
+    color: white;
+    display: flex;
+    gap: 2rem;
+    font-family: Poppins;
+    font-weight: 200;
+    font-size: 1.6rem;
+    text-wrap: nowrap;
+    
+}
+
+.navpages li{
+    cursor: pointer;
+    color: white;
+}
+
+.socialmedias{
+    display: flex;
+    gap: 1rem;
+    cursor: pointer;
+}
+
+.socialMediasAndCart{
+    display: flex;
+    gap: 3.6rem;
+    justify-content: center;
+    
+}
+
+#cart{
+    width: 2rem;
+    display: flex;
+    margin-bottom: 0.6rem;
+    cursor: pointer;
+
+}
+
+
+
+
+
+#line{
+    height: 0.8rem;
+    background-color: #164B70;
+}
+
+
+
+
+
+
+
+.logo{
+    width: 29rem;
+    position: relative;
+    bottom: 2.8rem;
+}
+
+.text{
+    font-family: lato;
+    width: 55rem;
+    
+   
+}
+
+#titleblock1{
+    font-size: 4rem;
+    margin-bottom: 2rem;
+    color: #01042f;
+    width: rem;
+}
+
+#textblock1{
+    font-size: 1.6rem;
+    line-height: 2.5rem;
+    font-weight: 400;
+}
+
+.block1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 10rem;
+    
+}
+
+.logoandtext{
+    display: flex;
+    align-items: center;
+
+}
+
+.imgs{
+    display: flex;
+    gap: 2.5rem;
+
+}
+
+.imgs img{
+    width: 7.5rem;
+}
+
+#downimg{
+    margin-top: 7rem;
+
+}
+
+#upimg{
+    margin-bottom: 7rem;
+  
+}
+
+#division1{
+    margin-top: 15rem;
+    width: 100vw;
+}
+
+
+
+
+
+
+.areatitle{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10rem;
+    font-family: lato;
+    max-width: 300rem;
+}
+
+#title{
+    font-size: 5.5rem;
+    color: #01042F;
+}
+
+#description{
+    font-size: 1.7rem;
+    width: 80rem;
+    text-align: center;
+    color: #01042F;
+    margin-top: 2rem;
+}
+
+.coursecards{
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4.2rem;
+    justify-content: space-around;
+    margin-top: 10rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    
+}
+
+.division{
+    position: absolute;
+    z-index: -1;
+    margin-top: 10rem;
+    width: 100vw;
+}
+
+.courseareasbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 200rem;
+}
+
+.btn{
+    cursor: pointer;
+    display: flex;
+    background-color: #01042F;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    margin: 15rem 15rem;
+    width: 40rem ;
+    height: 5rem;
+    border-radius: 3rem;
+    font-family: lato;
+    font-size: 2.2rem;
+}
+
+.btn:hover {
+    transition: 0.5s;
+    background-color: #01042fce;
+    
+}
+
+
+#btnicon{
+    position: relative;
+    left: 1.5rem;
+    top: 0.6rem;
+    width: 3rem;
+}
+
+
+
+
+.certificatedblock{
+
+    margin: 0rem 30rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.divisioncertificated{
+    margin-top: 7rem;
+    margin-bottom: 10rem;
+    width: 100vw;
+}
+
+#logolessionatoL{
+    width: 10rem;
+    margin-bottom: 10rem;
+}
+#logolessionato{
+    width: 30rem;
+    margin-left: 2rem;
+    margin-bottom: 10rem;
+}
+
+.certificateddescription {
+    font-family: lato;
+    font-size: 2rem;
+    width: 100vw;
+    margin-top: 5rem;
+    
+    
+}
+
+.descriptionandcertificated{
+    display: flex;
+    gap: 9rem;
+    color: #01042f;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+.certificated{
+    width: 190rem;
+}
+
+.title{
+    display: flex;
+    font-size: 5rem;
+    font-family: lato;
+    color: #01042f;
+    align-items: center;
+    gap: 3rem;
+}
+
+
+
+
+
+
+
+
+
+

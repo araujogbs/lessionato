@@ -1,0 +1,24 @@
+.title{
+    font-size: 5rem;
+    font-family: lato;
+    color: #01042f;
+    margin-top: 8rem;
+    margin-bottom: 7rem;
+
+}
+
+.description{
+    font-family: lato;
+    color: #01042f;
+    font-size: 2rem;
+  width: 100vw;
+  line-height: 5rem;
+  width: 10rem;
+}
+
+.quemsomos{
+    width: 165rem;
+    margin-left: 12rem;
+}
+
+

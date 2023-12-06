@@ -1,0 +1,32 @@
+.title{
+    font-size: 4rem;
+    font-family: lato;
+    color: #01042f;
+    margin-top: 8rem;
+    margin-bottom: 7rem;
+
+}
+
+.description{
+    font-family: lato;
+    color: #01042f;
+    font-size: 2rem;
+  width: 100vw;
+  line-height: 4rem;
+  width: 10rem;
+}
+
+.politicadeprivacidade{
+    width: 165rem;
+    margin-left: 12rem;
+
+}
+
+.title2{
+    font-size: 3.5rem;
+    font-family: lato;
+    color: #01042f;
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+}
+
