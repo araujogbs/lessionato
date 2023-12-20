@@ -14,7 +14,8 @@ function Card11() {
 
 
             <h1 className={styles.title} >Religiões</h1>
-            <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti, error reprehenderi</span>
+            <span id={styles.carddescription}>A religião é uma parte importante da vida de muitas pessoas. Os cursos livres de religião da Lessionato oferecem uma oportunidade de aprender sobre as diferentes religiões e como elas podem influenciar as pessoas.
+</span>
         </div>
 
 

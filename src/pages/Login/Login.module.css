@@ -1,0 +1,94 @@
+/* Login.module.css */
+
+.loginContainer {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 10rem;
+
+  }
+  
+  .loginContainer h1 {
+    text-align: center;
+    color: #00043C;
+    font-family: LATO;
+  }
+  
+  .loginContainer form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .loginContainer label {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: black;
+    font-family: lato;
+    margin-top: 2rem;
+  }
+  
+  .loginContainer input {
+    width: 95%;
+    padding: 8px;
+    margin-bottom: 0px;
+    border: 1px solid #000000;
+    border-radius: 4px;
+    
+  }
+  
+  .loginContainer button {
+    padding: 10px;
+    background-color: #00043C;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .loginContainer p {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .loginContainer a {
+    color: #00043C;
+    text-decoration: none;
+  }
+
+  .recuperarsenha{
+    font-family: lato;
+    font-size: 1.5rem;
+  }
+
+  .checkbox{
+    margin-right: 16rem;
+    margin-top: 0.5rem;
+  
+  
+
+
+  }
+
+  .lembrarsenha{
+    flex-direction: row;
+
+    width: 30rem;
+    display: flex;
+    text-wrap: nowrap;
+    margin-bottom: 3rem;
+    
+  }
+
+  @media (max-width: 790px) {
+    
+    .loginContainer {
+  
+    margin-top: 15rem;
+
+  }
+
+
+  }

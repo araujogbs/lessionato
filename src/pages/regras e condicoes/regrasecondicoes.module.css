@@ -30,3 +30,37 @@
     margin-bottom: 3rem;
 }
 
+
+@media (max-width: 1186px){
+
+    
+    .regrasecondicoes{
+        width: 90rem;
+        margin-left: 2rem;
+    
+    }
+    
+    
+    
+    }
+    
+    @media (max-width: 790px) {
+    
+            
+    .regrasecondicoes{
+        width: 60rem;
+        margin-left: 2rem;
+        line-height: 5rem;
+    
+    }
+    
+    .title{
+        
+        margin-top: 15rem;
+       
+    
+    }
+    
+    
+    
+    }

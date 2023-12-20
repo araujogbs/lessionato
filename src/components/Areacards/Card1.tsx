@@ -14,7 +14,9 @@ function Card1() {
 
 
             <h1 className={styles.title} >Agricultura</h1>
-            <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti, error reprehenderi</span>
+            <span id={styles.carddescription}>A agricultura é a base da nossa sociedade. Os cursos livres de agricultura da Lessionato oferecem uma oportunidade de aprender sobre as últimas práticas agrícolas e como elas podem ajudar a melhorar a produtividade e a sustentabilidade.
+
+</span>
         </div>
 
 

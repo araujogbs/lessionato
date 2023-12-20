@@ -23,3 +23,32 @@
 .footer li{
     color: white;
 }
+
+@media (max-width: 1186px){
+
+    .footer  {
+        gap: 8rem;
+        font-size: 1.2rem;
+    }
+
+    .logofooter{
+        margin-top: 4rem;
+            width: 17rem;
+    }
+
+}
+
+@media (max-width: 790px) {
+
+    .footer  {
+        gap: 2rem;
+        font-size: 1.2rem;
+    }
+
+    .logofooter{
+        margin-top: 4rem;
+            width: 17rem;
+    }
+
+
+}

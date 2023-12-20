@@ -1,0 +1,274 @@
+
+.aboveHeader {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: #00043C;
+    font-family: lato;
+    font-weight: 400;
+    font-size: 1.6rem;
+    height: 3.2rem;
+    gap: 28rem;
+    background-color: white;
+
+
+}
+
+#loginicon {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    width: 7rem;
+}
+
+#registericon {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    width: 12rem;
+}
+
+
+.loginAndRegister {
+    display: flex;
+    font-size: 0.7rem;
+    gap: 1.6rem;
+    font-family: Koulen;
+    color: #00043C;
+    align-items: center;
+
+
+}
+
+
+
+
+
+.navbar {
+    background-color: #00043C;
+    height: 6.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0rem 15.5vw;
+    overflow: hidden;
+
+}
+
+#logolessionatoheader {
+    width: 3.6rem;
+    margin-top: 5.2rem;
+
+
+}
+
+#logoescrita {
+    width: 16rem;
+
+
+}
+
+.logos {
+    text-wrap: nowrap;
+    cursor: pointer;
+}
+
+
+
+
+
+.navpages {
+    color: white;
+    display: flex;
+    gap: 2rem;
+    font-family: Poppins;
+    font-weight: 200;
+    font-size: 1.6rem;
+    text-wrap: nowrap;
+
+}
+
+.navpages li {
+    cursor: pointer;
+    color: white;
+}
+
+.socialmedias {
+    display: flex;
+    gap: 1rem;
+    cursor: pointer;
+}
+
+.socialMediasAndCart {
+    display: flex;
+    gap: 3.6rem;
+    justify-content: center;
+
+}
+
+#cart {
+    width: 2rem;
+    display: flex;
+    margin-bottom: 0.6rem;
+    cursor: pointer;
+
+}
+
+.logo {
+    width: 29rem;
+    position: relative;
+    bottom: 2.8rem;
+}
+
+.menubaropen{
+    width: 6rem;
+    display: none;
+}
+
+
+@media (max-width: 1186px) {
+
+    .navbar {
+       
+        padding: 0rem 7.5vw;
+        text-wrap: nowrap;
+        
+    }
+
+    .navpages {
+        font-size: 1.5rem;
+        gap: 1rem;
+    }
+
+    .socialMediasAndCart {
+        display: flex;
+        gap: 3.6rem;
+        justify-content: center;
+        width: -40%;
+    
+    }
+
+    .logo {
+        width: 22rem;
+        position: relative;
+        bottom: 2.8rem;
+    }
+
+    #loginicon {
+        
+        width: 6rem;
+    }
+}
+
+
+@media (max-width: 790px) {
+
+    .aboveHeader {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        color: #00043C;
+        font-family: lato;
+        font-weight: 400;
+        font-size: 1rem;
+        height: 3.2rem;
+        gap: 0rem;
+        position: fixed;
+        background-color: rgb(255, 255, 255);
+        width: 100vw;
+        z-index: 2;
+    }
+
+
+
+.loginAndRegister {
+    display: flex;
+    font-size: 0.7rem;
+    
+    font-family: Koulen;
+    color: #00043C;
+    padding-right: 1rem;
+
+   
+
+
+}
+
+    
+    .navbar {
+       
+        padding: 0rem 7.5vw;
+        padding-left: 0;
+        position: fixed;
+        width: 100vw;
+        margin-top: 3rem;
+        
+        
+    }
+
+    .navpages {
+        font-size: 1.8rem;
+        gap: 1rem;
+        flex-direction: column;
+        background-color: #00043C;
+        position: fixed;
+        margin-top: 80rem;
+        padding: 0rem 100vw 50rem 1rem;
+        gap: 3rem;
+        
+        
+        
+        
+        
+    }
+
+    .hidden {
+        display: none;
+      }
+
+    
+
+    .socialMediasAndCart {
+        display: flex;
+        gap: 3.6rem;
+        justify-content: center;
+        padding-right: 2rem;
+        
+    
+    }
+
+    .socialmedias {
+        display: none;
+    }
+
+    .logo {
+        width: 22rem;
+        position: relative;
+        bottom: 2.8rem;
+    }
+
+    .menubaropen{
+        width: 5rem;
+        display: block;
+    }
+
+    #logolessionatoheader {
+        width: 3rem;
+        margin-top: 5.2rem;
+    
+    
+    }
+    
+    #logoescrita {
+        width: 13rem;
+    
+    
+    }
+    
+
+
+
+
+}

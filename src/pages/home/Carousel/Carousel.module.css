@@ -23,7 +23,7 @@
   color: white;
   font-size: 24px;
   border: none;
-  padding: 10px;
+  padding: 30px;
   cursor: pointer;
 }
 
@@ -33,4 +33,18 @@
 
 .nextButton {
   right: 0;
+}
+
+@media (max-width: 790px) {
+
+  .prevButton,
+.nextButton {
+
+  font-size: 10px;
+
+  padding: 10px;
+
+  display: none;
+
+}
 }

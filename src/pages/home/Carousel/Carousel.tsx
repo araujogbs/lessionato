@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import styles from './Carousel.module.css';
 
-import img1 from '../../../assets/carousel/teste3.jpg';
-import img2 from '../../../assets/carousel/teste1.jpg';
-import img3 from '../../../assets/carousel/teste2.jpg';
+import img1 from '../../../assets/carousel/teste3.png';
+import img2 from '../../../assets/carousel/teste1.png';
+import img3 from '../../../assets/carousel/teste2.png';
 
 const Carousel: React.FC = () => {
   const [currentImage, setCurrentImage] = useState(0);

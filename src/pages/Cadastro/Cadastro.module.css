@@ -1,0 +1,65 @@
+.cadastroContainer {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  font-family: lato;
+  margin-top: 8rem;
+}
+
+.cadastroContainer h1 {
+  text-align: center;
+  color: #00043C;
+  margin-bottom: 2rem;
+}
+
+.cadastroContainer form {
+  display: flex;
+  flex-direction: column;
+}
+
+.cadastroContainer label {
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #000000;
+  
+  
+}
+
+.cadastroContainer input {
+  width: 95%;
+  padding: 8px;
+  margin-bottom: 15px;
+  border: 1px solid #000000;
+  border-radius: 4px;
+  margin-top: 0.2rem;
+}
+
+.cadastroContainer button {
+  padding: 10px;
+  background-color: #00043C;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.cadastroContainer p {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.cadastroContainer a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.facalogin{
+
+   
+    font-family: lato;
+    font-size: 1.5rem;
+  
+}

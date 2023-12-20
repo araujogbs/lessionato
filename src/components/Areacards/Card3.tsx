@@ -14,7 +14,7 @@ function Card3() {
 
 
             <h1 className={styles.title} >Coaching e Psicologia</h1>
-            <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti, error reprehenderi</span>
+            <span id={styles.carddescription}>O coaching e a psicologia são áreas que podem ajudar você a alcançar seus objetivos profissionais. Os cursos de coaching e psicologia da Lessionato oferecem uma oportunidade de aprender sobre técnicas de coaching e psicologia para podem ser aplicadas na sua vida.</span>
         </div>
 
 

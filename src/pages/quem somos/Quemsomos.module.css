@@ -14,11 +14,48 @@
   width: 100vw;
   line-height: 5rem;
   width: 10rem;
+  text-align: justify ;
 }
 
 .quemsomos{
     width: 165rem;
     margin-left: 12rem;
 }
+
+
+
+@media (max-width: 1186px){
+
+    
+    .quemsomos{
+        width: 90rem;
+        margin-left: 2rem;
+    
+    }
+    
+    
+    
+    }
+    
+    @media (max-width: 790px) {
+    
+            
+    .quemsomos{
+        width: 60rem;
+        margin-left: 2rem;
+        line-height: 5rem;
+    
+    }
+    
+    .title{
+        
+        margin-top: 15rem;
+       
+    
+    }
+    
+    
+    
+    }
 
 

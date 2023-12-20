@@ -14,7 +14,8 @@ function Card9() {
 
 
             <h1 className={styles.title} >Matemática e Estatística</h1>
-            <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti, error reprehenderi</span>
+            <span id={styles.carddescription}>A matemática e as estatísticas são áreas essenciais para a compreensão do mundo. Os cursos livres de matemática e estatísticas da Lessionato oferecem uma oportunidade de aprender sobre os fundamentos da matemática e das estatísticas.
+</span>
         </div>
 
 

@@ -14,7 +14,8 @@ function Card8() {
 
 
             <h1 className={styles.title} >Informática e Tecnologia</h1>
-            <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti, error reprehenderi</span>
+            <span id={styles.carddescription}>A informática e a tecnologia são áreas essenciais para o mundo moderno. Os cursos livres de informática e tecnologia da Lessionato oferecem uma oportunidade de aprender sobre as últimas tendências em informática e tecnologia.
+</span>
         </div>
 
 

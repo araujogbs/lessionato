@@ -14,7 +14,7 @@ function Card5() {
 
 
             <h1 className={styles.title} >Educação e Serviço Social</h1>
-            <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti, error reprehenderi</span>
+            <span id={styles.carddescription}>A educação e o serviço social são áreas essenciais para o desenvolvimento da sociedade. Os cursos livres de educação e serviço social da Lessionato é uma oportunidade de aprender sobre a área e como elas podem ser aplicadas na sua vida profissional.</span>
         </div>
 
 

@@ -14,6 +14,7 @@
   width: 100vw;
   line-height: 4rem;
   width: 10rem;
+  text-align: justify;
 }
 
 .politicadeprivacidade{
@@ -30,3 +31,35 @@
     margin-bottom: 3rem;
 }
 
+
+
+@media (max-width: 1186px){
+
+    
+    .politicadeprivacidade{
+        width: 90rem;
+        margin-left: 2rem;
+    
+    }
+    
+    
+    
+    }
+    
+    @media (max-width: 790px) {
+    
+            
+    .politicadeprivacidade{
+        width: 55rem;
+        margin-left: 2rem;
+        line-height: 5rem;
+    
+    }
+    
+    .title{
+        
+        margin-top: 15rem;
+       
+    
+    }
+}

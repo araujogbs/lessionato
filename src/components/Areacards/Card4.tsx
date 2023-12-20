@@ -14,7 +14,7 @@ function Card4() {
 
 
             <h1 className={styles.title} >Contabilidade e Finanças</h1>
-            <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti, error reprehenderi</span>
+            <span id={styles.carddescription}>A contabilidade e as finanças são áreas essenciais para a gestão de qualquer negócio. Os cursos livres de contabilidade e finanças da Lessionato oferecem uma oportunidade de aprender sobre os fundamentos da contabilidade e das finanças.</span>
         </div>
 
 

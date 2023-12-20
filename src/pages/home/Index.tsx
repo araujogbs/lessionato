@@ -35,7 +35,7 @@ import Carousel from "./Carousel/Carousel"
 {/* IMPORTS CURSOS*/ }
 
 import Courses from "./Courses/courses"
-import divisioncourse from "../../assets/divisions/Rectangle 29.png"
+import divisioncourse from "../../assets/divisions/Rectangle 25.png"
 
 
 
@@ -80,9 +80,9 @@ export function Home() {
 
                         <div className={styles.text}>
 
-                            <h1 id={styles.titleblock1} >Potencialize seu Saber, Conquiste o Sucesso! </h1>
+                            <h1 id={styles.titleblock1} >Apreender e Certificar te garante um futuro promissor </h1>
 
-                            <h3 id={styles.textblock1} >Descubra cursos de alta qualidade que vão impulsionar sua aprendizagem e te ajudar a atingir seus objetivos. Acesso instantâneo a conhecimento valioso para alcançar o sucesso pessoal e profissional, com certificados digitais para comprovar suas conquistas. Explore nossa seleção e comece a transformar sua vida hoje</h3>
+                            <h3 id={styles.textblock1} >A Lessionato é uma empresa de cursos livres com atuação em diversas áreas do conhecimento. Com uma ampla variedade de cursos disponíveis, a Lessionato atende a todos os públicos, independentemente da idade, formação ou interesses.</h3>
 
                         </div>
 
@@ -159,11 +159,19 @@ export function Home() {
             <Carousel/>
 
 
-<br /><br /><br /><br /><br /><br /><br />
+
             
-<img id={styles.division} src={divisioncourse} alt="" />
+<img className={styles.division} src={divisioncourse} alt="" />
 
 
+<div className={styles.areatitlecourses}>
+<h1 id={styles.title}>Nossos cursos mais acessados</h1>
+
+<h3 id={styles.description}>Nossos cursos online são perfeitos para quem quer investir na sua capacitação de forma prática e
+ rápida, mas claro, sem perder a qualidade. Escolha os cursos que mais se encaixam com suas pretensões profissionais!
+</h3>
+
+</div>
 
             <Courses/>
 
@@ -188,10 +196,18 @@ export function Home() {
 
 <div className={styles.descriptionandcertificated}> 
     
-<span className={styles.certificateddescription}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor consectetur adipiscing elit consectetur adipiscing elit consectetur adipiscing elit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit
+<span className={styles.certificateddescription}>Você já ouviu falar da Lessionato? <br /> <br />
 
 
-    sit amet, consectetur adipiscing elit, veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat., sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Somos uma empresa de cursos livres que oferece uma ampla variedade de cursos de atualização e qualificação profissional. <br /> <br />
+
+Os cursos livres são uma ótima maneira de aprender novas habilidades, se atualizar na sua área ou mudar de carreira. <br /><br />
+
+Podem ser utilizados junto ao empregador, concursos e instituições educacionais, porém devem ser verificadas pelo educando se o certificado é aceito. <br /><br />
+os cursos livres são uma modalidade de ensino legal e regulamentada no Brasil. Eles são uma importante oportunidade para que os trabalhadores possam se qualificar e atualizar suas competências, de forma a melhorar sua empregabilidade e seu desempenho no mercado de trabalho.
+
+
+
 </span>
 
 <img className={styles.certificated} src={certificated} alt="exemplo de certificado" />

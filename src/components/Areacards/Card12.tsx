@@ -14,7 +14,7 @@ function Card12() {
 
 
             <h1 className={styles.title} >Turismo e Hotelaria</h1>
-            <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti, error reprehenderi</span>
+            <span id={styles.carddescription}>O turismo e a hotelaria são áreas essenciais para a economia. Os cursos livres de turismo e hotelaria da Lessionato oferecem uma oportunidade de aprender sobre as diferentes áreas do turismo e da hotelaria e como elas podem ser exercidas.</span>
         </div>
 
 

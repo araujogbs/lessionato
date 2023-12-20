@@ -14,7 +14,8 @@ function Card6() {
 
 
             <h1 className={styles.title} >Física e Química</h1>
-            <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti, error reprehenderi</span>
+            <span id={styles.carddescription}>A física e a química são áreas essenciais para a compreensão do mundo natural. Os cursos livres de física e química da Lessionato oferecem uma oportunidade de aprender sobre a base da física e da química e como elas podem ser aplicadas na vida real.
+</span>
         </div>
 
 

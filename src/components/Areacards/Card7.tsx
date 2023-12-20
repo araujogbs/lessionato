@@ -14,7 +14,8 @@ function Card7() {
 
 
             <h1 className={styles.title} >História e Geografia</h1>
-            <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti, error reprehenderi</span>
+            <span id={styles.carddescription}>A história e a geografia são áreas essenciais para a compreensão do mundo. Os cursos livres de história e geografia da Lessionato oferecem uma oportunidade de aprender sobre o passado e o presente do mundo e como ele funciona.
+</span>
         </div>
 
 

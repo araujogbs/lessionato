@@ -14,7 +14,8 @@ function Card10() {
 
 
             <h1 className={styles.title} >Meio Ambinete e Sustentabilidade</h1>
-            <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti</span>
+            <span id={styles.carddescription}>O meio ambiente e a sustentabilidade são essenciais para a humanidade. Os cursos livres de meio ambiente e sustentabilidade são a oportunidade de aprender a reseolver esses problemas.
+</span>
         </div>
 
 

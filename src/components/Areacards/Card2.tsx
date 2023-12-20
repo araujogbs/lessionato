@@ -14,7 +14,8 @@ function Card2() {
 
 
             <h1 className={styles.title} >Biologia e Veterinária</h1>
-            <span id={styles.carddescription}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur, deleniti, error reprehenderi</span>
+            <span id={styles.carddescription}>A biologia e a veterinária são áreas essenciais para a compreensão do mundo natural. Os cursos livres de biologia e veterinária da Lessionato oferecem uma oportunidade de aprender sobre a base da vida e como ela funciona.
+</span>
         </div>
 
 

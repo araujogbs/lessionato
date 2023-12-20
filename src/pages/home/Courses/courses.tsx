@@ -24,11 +24,7 @@ function courses(){
        
 
 <div className={styles.areatitle}>
-    <h1 id={styles.title}>Nossos cursos mais acessados</h1>
 
-    <h3 id={styles.description}>Nossos cursos online são perfeitos para quem quer investir na sua capacitação de forma prática e
-     rápida, mas claro, sem perder a qualidade. Escolha os cursos que mais se encaixam com suas pretensões profissionais!
-</h3>
 
     </div>
 
